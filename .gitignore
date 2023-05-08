@@ -1,0 +1,7 @@
+__pycache__/
+config.py
+.xero_refresh_token
+mc_debug.log
+debug_queue.log
+api.log
+venv
